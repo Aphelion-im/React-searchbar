@@ -33,10 +33,11 @@ export default function SearchBar() {
           </div>
           <input
             className="searchbar"
-            type="text"
+            type="search"
             name="searchbar"
             id="searchbar"
             placeholder="Search"
+            autoFocus
           />
         </div>
       </form>
