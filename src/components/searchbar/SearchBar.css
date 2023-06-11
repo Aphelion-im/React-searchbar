@@ -44,6 +44,15 @@
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+  transition: color 100ms ease-in;
+}
+
+.searchbar-icon-container .close-icon:hover {
+  color: #ffffff;
+}
+
+.searchbar-icon-container .close-icon:active {
+  color: #EB1E25;
 }
 
 .searchbar-icon-container .fa-search-icon {

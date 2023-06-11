@@ -27,7 +27,7 @@ export default function SearchBar() {
               title="Search"
               className="fa-search-icon"
             />
-            <span className="close-icon" onClick={closeQueryHandler}>
+            <span className="close-icon" onClick={closeQueryHandler} title="Close query">
               &#10006;
             </span>
           </div>
