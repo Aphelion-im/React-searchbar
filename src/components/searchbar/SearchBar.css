@@ -1,9 +1,6 @@
 .searchbar-icon-container {
   position: relative;
   display: inline-block;
-  box-shadow: 4px 4px 5px 0px rgba(0, 0, 0, 0.75);
-  -webkit-box-shadow: 4px 4px 5px 0px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 4px 4px 5px 0px rgba(0, 0, 0, 0.75);
   margin-top: 3rem;
   border-radius: 25px;
   width: 50%;
@@ -45,10 +42,6 @@
   top: 50%;
   transform: translateY(-50%);
   right: 110%;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
   transition: color 100ms ease-in;
 }
 
@@ -60,12 +53,12 @@
   color: #eb1e25;
 }
 
-.searchbar-icon-container .fa-search-icon {
+.searchbar-icon-container .fa-search {
   color: #fff;
   font-size: 1.5rem;
 }
 
-.searchbar-icon-container .fa-search-icon:hover {
+.searchbar-icon-container .fa-search:hover {
   color: #666666;
 }
 

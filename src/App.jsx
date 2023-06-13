@@ -27,23 +27,23 @@ export default function App() {
   return (
     <>
       <SearchBar />
-      <FaHeart className="fa-heart-icon" />
-      <FaRegHeart className="fa-reg-heart-icon" />
-      <FaEnvelope className="fa-envelope-icon" />
-      <FaRegEnvelope className="fa-reg-envelope-icon" />
-      <FaSearch className="fa-search-icon" />
-      <FaChevronLeft className="fa-chevron-left-icon" />
-      <FaChevronDown className="fa-chevron-down-icon" />
-      <FaPinterestSquare className="fa-pinterest-square-icon" />
-      <FaFacebookSquare className="fa-facebook-square-icon" />
-      <FaLinkedin className="fa-linkedin-icon" />
-      <FaTwitter className="fa-twitter-icon" />
-      <FaComment className="fa-comment-icon" />
-      <FaUser className="fa-user-icon" />
-      <FaLock className="fa-lock-icon" />
-      <FaInfoCircle className="fa-info-circle-icon" />
-      <FaRegArrowAltCircleRight className="fa-reg-arrow-circle-right-icon" />
-      <FaExclamationTriangle className="fa-exclamation-triangle-icon" />
+      <FaHeart className="fa-heart icon" />
+      <FaRegHeart className="fa-reg-heart icon" />
+      <FaEnvelope className="fa-envelope icon" />
+      <FaRegEnvelope className="fa-reg-envelope icon" />
+      <FaSearch className="fa-search icon" />
+      <FaChevronLeft className="fa-chevron-left icon" />
+      <FaChevronDown className="fa-chevron-down icon" />
+      <FaPinterestSquare className="fa-pinterest-square icon" />
+      <FaFacebookSquare className="fa-facebook-square icon" />
+      <FaLinkedin className="fa-linkedin icon" />
+      <FaTwitter className="fa-twitter icon" />
+      <FaComment className="fa-comment icon" />
+      <FaUser className="fa-user icon" />
+      <FaLock className="fa-lock icon" />
+      <FaInfoCircle className="fa-info-circle icon" />
+      <FaRegArrowAltCircleRight className="fa-reg-arrow-circle-right icon" />
+      <FaExclamationTriangle className="fa-exclamation-triangle icon" />
     </>
   );
 }
